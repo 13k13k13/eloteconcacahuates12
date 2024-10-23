@@ -1,5 +1,11 @@
 ## Hola soy Rocio Aranza 👋
 ![](https://github.com/eloteconcacahuates12/eloteconcacahuates12/blob/main/Banner.png)
+
+[![YouTube Channel Subscribers](https://img.shields.io/badge/AraProg-SUCRIBETE-red)](https://www.youtube.com/@RocíoAranzaSolísGarcía-m4g)
+[![Instagram](https://img.shields.io/badge/Instagram-SEGUIR-hotpink)](https://www.instagram.com/rocioaranzasolisgarcia/)
+[![Facebook](https://img.shields.io/badge/Facebook-SEGUIR-steelblue)](https://www.facebook.com/share/xD6Y432iGKoHMTSY/)
+[![Twitter](https://img.shields.io/badge/X-SEGUIR-slategray)](https://x.com/AranzaRoc86723)
+
 - 🔭 I’m currently working on ...Bachillerato Militarizado Reynosa
 - 🌱 I’m currently learning ...Programacion
 - 👯 I’m looking to collaborate on ...una empresa/maquila
