@@ -1,10 +1,5 @@
-## Hi there 👋
-
-<!--
-**eloteconcacahuates12/eloteconcacahuates12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+## Hola soy Rocio Aranza 👋
+<img src="https://i.imgur.com/Banner.png" >
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
