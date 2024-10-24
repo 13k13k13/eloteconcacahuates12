@@ -6,6 +6,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-SEGUIR-steelblue)](https://www.facebook.com/share/xD6Y432iGKoHMTSY/)
 [![Twitter](https://img.shields.io/badge/X-SEGUIR-slategray)](https://x.com/AranzaRoc86723)
 
+Sobre mi:
 - 🔭 I’m currently working on ...Bachillerato Militarizado Reynosa
 - 🌱 I’m currently learning ...Programacion
 - 👯 I’m looking to collaborate on ...una empresa/maquila
