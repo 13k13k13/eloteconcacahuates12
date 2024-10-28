@@ -2,10 +2,10 @@
 ![](https://github.com/eloteconcacahuates12/eloteconcacahuates12/blob/main/Banner.png)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVcfmRHhT2O61_OmnWHVPFw)](https://www.youtube.com/@RocíoAranzaSolísGarcía-m4g)
-[![Instagram](https://img.shields.io/badge/Instagram-SEGUIR-hotpink)](https://www.instagram.com/rocioaranzasolisgarcia/)
-[![Facebook](https://img.shields.io/badge/Facebook-SEGUIR-steelblue)](https://www.facebook.com/share/xD6Y432iGKoHMTSY/)
 [![Twitter](https://img.shields.io/twitch/status/aranza_soli)](https://x.com/AranzaRoc86723)
 [![Github](https://img.shields.io/github/followers/eloteconcacahuates12)](https://github.com/eloteconcacahuates12)
+[![Instagram](https://img.shields.io/badge/Instagram-SEGUIR-hotpink)](https://www.instagram.com/rocioaranzasolisgarcia/)
+[![Facebook](https://img.shields.io/badge/Facebook-SEGUIR-steelblue)](https://www.facebook.com/share/xD6Y432iGKoHMTSY/)
 
 
 Sobre mi:
