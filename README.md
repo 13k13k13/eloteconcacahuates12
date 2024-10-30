@@ -2,22 +2,22 @@
 ![](https://github.com/eloteconcacahuates12/eloteconcacahuates12/blob/main/Banner.png)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVcfmRHhT2O61_OmnWHVPFw)](https://www.youtube.com/@RocíoAranzaSolísGarcía-m4g)
-[![Twitter](https://img.shields.io/twitch/status/aranza_soli)](https://x.com/AranzaRoc86723)
 [![Github](https://img.shields.io/github/followers/eloteconcacahuates12)](https://github.com/eloteconcacahuates12)
-[![Instagram](https://img.shields.io/badge/Instagram-SEGUIR-hotpink)](https://www.instagram.com/rocioaranzasolisgarcia/)
-[![Facebook](https://img.shields.io/badge/Facebook-SEGUIR-steelblue)](https://www.facebook.com/share/xD6Y432iGKoHMTSY/)
+[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=Sigueme&color=ffa07a&style=social&logo=instagram)](https://www.instagram.com/rocioaranzasolisgarcia/)
+[![Facebook](https://img.shields.io/static/v1?label=Facebook&message=Sigueme&color=ffa07a&style=social&logo=facebook)](https://www.facebook.com/share/xD6Y432iGKoHMTSY/)
+[![X](https://img.shields.io/static/v1?label=X&message=Sigueme&color=ffa07a&style=social&logo=x)](https://x.com/AranzaRoc86723)
 
+## Sobre mi:
+- 🔭 Actualmente, estoy estudiando en el Bachillerato Militarizado Reynosa.
+- 🌱 Estoy aprendiendo sobre programación.
+- 👯 Me gustaría colaborar con una empresa o maquila.
+- 🤔 Busco ayuda en algunos temas con mis profesores.
+- 💬 Pregúntame sobre lo que más me gusta de la programación.
+- 📫 Encuentra mis redes sociales y formas de contacto en mi descripción.
+- 😄 Pronombres: arancita.
+- ⚡ Dato curioso: disfruto leer de vez en cuando. 
 
-Sobre mi:
-- 🔭 I’m currently working on ...Bachillerato Militarizado Reynosa
-- 🌱 I’m currently learning ...Programacion
-- 👯 I’m looking to collaborate on ...una empresa/maquila
-- 🤔 I’m looking for help with ...mis profesores 
-- 💬 Ask me about ...que es loq ue mas me gusta de programacion
-- 📫 How to reach me: ... en mi descripcion estan mis redes y el como contactarme
-- 😄 Pronouns: ...arancita
-- ⚡ Fun fact: ...me gusta leer de vez en cuando
-
+------------------------------------------------------------------------------------------------
 ## Proyectos *AraProg*
 <table>
 <tr>
@@ -61,11 +61,12 @@ Sobre mi:
 
 
 --------------------------------------------------------------------------
-no haga caso acaaaa
---------------------------------------------------------------------------
+## GitHub Analytics
+
 <p align="center">
 <a href="https://github.com/eloteconcacahuates12">
-<img height="180em"src="https://githubreadmestatseighttheta.vercel.app/apiusername=eloteconcacahuates12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eloteconcacahuates12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eloteconcacahuates12&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<br>
