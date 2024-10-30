@@ -17,7 +17,16 @@
 - 😄 Pronombres: arancita.
 - ⚡ Dato curioso: disfruto leer de vez en cuando. 
 
-------------------------------------------------------------------------------------------------
+## Experiencia en
+
+- 💻 Páginas en HTML
+- 🌅 Diseño/estilos en CSS
+- 🌱 JavaScript
+- 👩🏽‍💻 C++
+- 💫 Java
+- 💜 Eclipse IDE, Brackets , NeatBeans IDE, VScode
+
+-------------------------------------------------------------------------------------------------
 ## Proyectos *AraProg*
 <table>
 <tr>
