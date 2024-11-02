@@ -4,7 +4,7 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVcfmRHhT2O61_OmnWHVPFw)](https://www.youtube.com/@RocíoAranzaSolísGarcía-m4g)
 [![Github](https://img.shields.io/github/followers/eloteconcacahuates12)](https://github.com/eloteconcacahuates12)
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=Sigueme&color=ffa07a&style=social&logo=instagram)](https://www.instagram.com/rocioaranzasolisgarcia/)
-[![Facebook](https://img.shields.io/static/v1?label=Facebook(RocioAranzaSoliGarcia)&message=Sigueme&color=ffa07a&style=social&logo=facebook)](https://www.facebook.com/share/xD6Y432iGKoHMTSY/)
+[![Facebook](https://img.shields.io/static/v1?label=Facebook&message=Sigueme&color=ffa07a&style=social&logo=facebook)](https://www.facebook.com/profile.php?id=61567030155997)
 [![Twitter](https://img.shields.io/static/v1?label=X&message=Sigueme&color=ffa07a&style=social&logo=x)](https://x.com/aranza_soli)
 
 ## Sobre mi:
